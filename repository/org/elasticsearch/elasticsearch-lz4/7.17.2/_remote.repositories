@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 17 10:35:04 IST 2023
+elasticsearch-lz4-7.17.2-sources.jar>central=
+elasticsearch-lz4-7.17.2.jar>central=
+elasticsearch-lz4-7.17.2.pom>central=

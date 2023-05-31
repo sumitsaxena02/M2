@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>aero.sita.psetest.automation</groupId>
+  <artifactId>pse-test-automation-framework</artifactId>
+  <versioning>
+    <versions>
+      <version>11.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230505123835</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:07:46 IST 2023
+sqlite-jdbc-3.8.11.1.jar>local-central=
+sqlite-jdbc-3.8.11.1.jar>=
+sqlite-jdbc-3.8.11.1.pom>Maven-Central=
+sqlite-jdbc-3.8.11.1.pom>local-central=

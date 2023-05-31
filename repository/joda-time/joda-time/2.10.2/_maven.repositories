@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:08:01 IST 2023
+joda-time-2.10.2.jar>=
+joda-time-2.10.2.pom>local-central=
+joda-time-2.10.2.jar>local-central=
+joda-time-2.10.2.pom>Maven-Central=

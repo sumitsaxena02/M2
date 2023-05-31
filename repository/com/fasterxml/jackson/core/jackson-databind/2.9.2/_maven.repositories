@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:07:55 IST 2023
+jackson-databind-2.9.2.jar>local-central=
+jackson-databind-2.9.2.jar>=
+jackson-databind-2.9.2.pom>Maven-Central=
+jackson-databind-2.9.2.pom>local-central=

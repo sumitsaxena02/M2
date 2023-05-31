@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>carnival.uk.crewhr.automation</groupId>
+  <artifactId>carnivalframework</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230530121243</lastUpdated>
+  </versioning>
+</metadata>

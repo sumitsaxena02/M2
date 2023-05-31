@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:08:00 IST 2023
+activemq-all-5.15.8.jar>local-central=
+activemq-all-5.15.8.jar>=
+activemq-all-5.15.8.pom>Maven-Central=
+activemq-all-5.15.8.pom>local-central=

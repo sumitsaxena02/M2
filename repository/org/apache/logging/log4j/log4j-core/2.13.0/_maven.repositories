@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:07:55 IST 2023
+log4j-core-2.13.0.pom>local-central=
+log4j-core-2.13.0.jar>local-central=
+log4j-core-2.13.0.pom>Maven-Central=
+log4j-core-2.13.0.jar>=

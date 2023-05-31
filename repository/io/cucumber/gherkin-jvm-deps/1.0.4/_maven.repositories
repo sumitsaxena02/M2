@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:08:05 IST 2023
+gherkin-jvm-deps-1.0.4.jar>=
+gherkin-jvm-deps-1.0.4.jar>local-central=
+gherkin-jvm-deps-1.0.4.pom>local-central=
+gherkin-jvm-deps-1.0.4.pom>Maven-Central=

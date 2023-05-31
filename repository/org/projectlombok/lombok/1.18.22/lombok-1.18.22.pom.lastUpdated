@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 17 10:28:53 IST 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1676609933762
+http\://catemp.pts.sita.aero\:82/nexus/repository/releases/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.22 from/to releases (http\://catemp.pts.sita.aero\:82/nexus/repository/releases)\: catemp.pts.sita.aero
+e51caf49f2829224bb9502647a30c3b3c1798f52@default-http\://catemp.pts.sita.aero\:82/nexus/repository/releases/.lastUpdated=1676601567662
+default-http\://catemp.pts.sita.aero\:82/nexus/repository/iborders-thirdparty/.lastUpdated=1676601567670
+http\://catemp.pts.sita.aero\:82/nexus/repository/central/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.22 from/to local-central (http\://catemp.pts.sita.aero\:82/nexus/repository/central/)\: catemp.pts.sita.aero
+default-http\://catemp.pts.sita.aero\:82/nexus/repository/central/.lastUpdated=1676601567660
+http\://catemp.pts.sita.aero\:82/nexus/repository/iborders-thirdparty/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.22 from/to iborders-thirdparty (http\://catemp.pts.sita.aero\:82/nexus/repository/iborders-thirdparty)\: catemp.pts.sita.aero

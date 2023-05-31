@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:07:56 IST 2023
+rest-assured-4.0.0.jar>local-central=
+rest-assured-4.0.0.jar>=
+rest-assured-4.0.0.pom>local-central=
+rest-assured-4.0.0.pom>Maven-Central=

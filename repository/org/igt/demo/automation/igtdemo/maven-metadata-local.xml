@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.igt.demo.automation</groupId>
+  <artifactId>igtdemo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230503071320</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 18:07:46 IST 2023
+jsoup-1.8.3.jar>=
+jsoup-1.8.3.pom>Maven-Central=
+jsoup-1.8.3.pom>local-central=
+jsoup-1.8.3.jar>local-central=
